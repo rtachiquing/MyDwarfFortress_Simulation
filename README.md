@@ -1,9 +1,3 @@
-# MyDwarfFortress_Simulation
-This is a mere simulation for practice some basic data structures in a game.
-
-![image](https://github.com/user-attachments/assets/34b7e324-7ad7-4c6a-a406-48cc4e5be6aa)
-![image](https://github.com/user-attachments/assets/759db9e5-46ca-498d-b2d9-a51432faa0eb)
-
 # My Dwarf Fortress Simulation
 
 A Python-based simulation inspired by the popular game *Dwarf Fortress*, designed specifically for educational purposes in a **Data Structures and Algorithms II** course. This project provides a hands-on approach to understanding and implementing advanced data structures and algorithms within the context of a simulation game.
@@ -20,6 +14,9 @@ This project is an excellent resource for students learning data structures and 
 - **String Algorithms**: Pattern matching, string comparison, and compression algorithms.
 
 Through this project, students explore the mechanics of these data structures and algorithms in a simulation that dynamically evolves based on their implementation.
+
+So, this is a project aimed for study and have some fun with a practical implementations of some major topics in Data Structures and Algorithms.
+This project isn't complete. You will find a mere initial code and some already implementations that try to help starting.
 
 ---
 
@@ -61,10 +58,27 @@ This simulation is a practical example for:
 - Providing a platform for experimenting with algorithmic efficiency and data handling.
 
 ---
+🌟 Planned Enhancements
+GUI Integration: A graphical interface for better visualization.
+AI-Driven Characters: Characters that learn and adapt based on past interactions.
+More Algorithms: Advanced algorithms for pathfinding, social networking, and resource optimization.
+---
+💡 Why Use This in Your Course?
+Interactive Learning: Engage students by tying concepts directly to an evolving simulation.
+Customizable: Tailor the project to include the data structures and algorithms most relevant to your syllabus.
+Scalable: Start with simple implementations and expand the complexity as the course progresses.
+---
+🤝 Contributions
+This is a project aimed for study and have some fun with a practical implementations of some major topics in Data Structures and Algorithms.
+This project isn't complete. You will find a mere initial code and some already implementations that try to help starting.
+Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve the project.
+---
+✨ Acknowledgments
+This project draws inspiration from Dwarf Fortress and aims to provide a simplified yet effective framework for educational purposes. Special thanks to all contributors and the vibrant data structures and algorithms community.
+---
 
-## 🛠️ Installation and Usage
+# 🏁 MyDwarfFortress_Simulation
+This is a mere simulation for practice some basic data structures in a game.
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/my-dwarf-fortress.git
-   cd my-dwarf-fortress
+![image](https://github.com/user-attachments/assets/34b7e324-7ad7-4c6a-a406-48cc4e5be6aa)
+![image](https://github.com/user-attachments/assets/759db9e5-46ca-498d-b2d9-a51432faa0eb)
