@@ -1,6 +1,6 @@
 # My Dwarf Fortress Simulation
 
-A Python-based simulation inspired by the popular game *Dwarf Fortress*, designed specifically for educational purposes in a **Data Structures and Algorithms II** course. This project provides a hands-on approach to understanding and implementing advanced data structures and algorithms within the context of a simulation game.
+A Python-based simulation inspired by the popular game *Dwarf Fortress*, designed specifically for educational purposes in a **Data Structures and Algorithms** course. This project provides a hands-on approach to understanding and implementing advanced data structures and algorithms within the context of a simulation game.
 
 ## 📚 Purpose
 
